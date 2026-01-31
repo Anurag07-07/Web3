@@ -41,3 +41,4 @@ function findNonce(n){
 
 const ans1 = findNonce('00000')
 console.log(`The Hash is ${ans1.hash} The Nonce is ${ans1.count} The Original String is ${ans1.stringValue}`);
+
