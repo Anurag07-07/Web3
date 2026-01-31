@@ -24,6 +24,7 @@
 
 //Private keys and public keys => array of bytes 32 bytes5
 
+//Ascii=> 8 bits 1 character
 
 //Bytes to Text
 function bytestoArray(bytes){
@@ -47,4 +48,4 @@ const ans1  = asciitoBytes(ascii)
 console.log(ans1);
 
 
-//Hex => 4 bytes
+//Hex => 4 bits 1 character
